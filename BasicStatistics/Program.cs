@@ -6,6 +6,7 @@ class Solution
 {
     static void Main(String[] args)
     {
+        // https:/www.wikihow.com/Calculate-Confidence-Interval
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
         //int N = Convert.ToInt32(Console.ReadLine());
 
